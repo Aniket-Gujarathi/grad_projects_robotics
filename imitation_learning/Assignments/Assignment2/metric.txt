@@ -1,0 +1,3 @@
+The average reward and success rate for 20 episodes are:
+Average Reward: -10.686
+Success Rate: 75%
